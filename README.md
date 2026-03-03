@@ -2,7 +2,7 @@
 
 A Java + MySQL desktop application for reporting, tracking, and analyzing cybersecurity incidents such as phishing attacks, phone scams, ransomware, and identity theft. Developed as a database application project for **CCINFOM S24** at De La Salle University – Manila (Term 1, A.Y. 2025–2026).
 
-**Group 2:** Hallare, Zach Benedict I. · Campo, Benette Enzo V. · Martin, Kurt Nehemiah Z. · Ravelo, Georgina Karylle P.
+**Group 2:** Hallare, Zach Benedict I. · Campo, Benette Enzo V. · Martin, Kurt Nehemiah Z.
 
 ---
 
